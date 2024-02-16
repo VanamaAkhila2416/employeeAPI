@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "employees",
+  "version": "1.6.2",
+  "main": "employees.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanamaAkhila2416/employeeAPI.git"
+  },
+  "keywords": [
+    "emp",
+    "employee",
+    "employ"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanamaAkhila2416/employeeAPI/issues"
+  },
+  "homepage": "https://github.com/VanamaAkhila2416/employeeAPI#readme",
+  "description": ""
+}
